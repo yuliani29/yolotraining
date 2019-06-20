@@ -1,0 +1,5 @@
+classes=1
+train=/home/william/data/hrsc/train.txt
+valid=/home/william/data/hrsc/test.txt
+names=data/hrsc.names
+backup=backup/
