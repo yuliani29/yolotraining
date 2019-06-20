@@ -1,4 +1,0 @@
-data/img/IMG_20190214_110931.jpg
-data/img/IMG_20190214_114706.jpg
-data/img/IMG_20190214_115548.jpg
-data/img/IMG_20190214_121943.jpg
